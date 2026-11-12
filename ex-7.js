@@ -5,3 +5,7 @@ let verb = "am";
 let object = "A Software Developer";
 
 let sentence;
+sentence = "I "+"am "+"A Software Developer"
+
+
+console.log(sentence)
